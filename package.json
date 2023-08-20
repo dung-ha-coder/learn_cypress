@@ -1,0 +1,17 @@
+{
+  "name": "learn_cypress",
+  "version": "1.0.0",
+  "description": "Learn Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dung Ha",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  },
+  "dependencies": {
+    "typerscript": "^0.2.3"
+  }
+}
